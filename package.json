@@ -3,14 +3,14 @@
     "license": "MIT",
     "displayName": "Cortex-theme",
     "description": "Dark theme based on Cortex colorscheme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.67.0"
     },
     "categories": [
         "Themes"
     ],
-    "icon": "icon.png",
+    "icon": "./assets/icon.png",
     "publisher": "cortex-theme",
     "publisherDisplayName": "Migxt",
     "repository": {
