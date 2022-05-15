@@ -1,6 +1,7 @@
+
 # 🤯 Cortex
 ## *My first theme :)
-
+Marketplace: https://marketplace.visualstudio.com/items?itemName=Cortex-theme.cortex-theme
 # 🎨 Colors / Example
 ## Red    :#ff3370
 
