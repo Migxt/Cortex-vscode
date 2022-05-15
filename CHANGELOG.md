@@ -1,7 +1,7 @@
 # 📋 Change Log
 ___________________________
 
-## 🧠 Ver 1.0.0
+## 🧠 Ver 1.0.1
 Second version.
 |
 -> Homepage 
