@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "./assets/icon.png",
+    "icon": "icon.png",
     "publisher": "cortex-theme",
     "publisherDisplayName": "Migxt",
     "repository": {
