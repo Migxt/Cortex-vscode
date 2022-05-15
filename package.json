@@ -12,6 +12,15 @@
     "icon": "icon.png",
     "publisher": "migxt",
     "publisherDisplayName": "Migxt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Migxt/Cortex-vscode"
+    },
+    "keywords": [
+        "theme",
+        "cortex",
+        "cortex theme"
+    ],
     "contributes": {
         "themes": [
             {
