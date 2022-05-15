@@ -1,0 +1,24 @@
+{
+    "name": "cortex-theme",
+    "displayName": "Cortex-theme",
+    "description": "Dark theme based on Cortex colorscheme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "publisher": "migxt",
+    "publisherDisplayName": "Migxt",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cortex",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cortex-color-theme.json"
+            }
+        ]
+    }
+}
