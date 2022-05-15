@@ -1,5 +1,6 @@
 {
     "name": "cortex-theme",
+    "license": "MIT",
     "displayName": "Cortex-theme",
     "description": "Dark theme based on Cortex colorscheme",
     "version": "1.0.0",
