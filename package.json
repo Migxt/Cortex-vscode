@@ -11,7 +11,7 @@
         "Themes"
     ],
     "icon": "icon.png",
-    "publisher": "migxt",
+    "publisher": "cortex-theme",
     "publisherDisplayName": "Migxt",
     "repository": {
         "type": "git",
